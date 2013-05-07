@@ -1,0 +1,9 @@
+[user]
+	name = Philip Vasilchenko
+	email = philip.Vasilchenko@gmail.com
+[core]
+	excludesfile = ~/.gitignore_global
+[color]
+	ui = true
+[format]
+	pretty = tformat:%Cblue%h%Creset %Cgreen%ar%Creset %Cblue%d%Creset <%an> %s
