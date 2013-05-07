@@ -24,3 +24,15 @@ My own layout based on [Ilya Birman Typography](Ilya Birman Typography) keyboard
 ## Fonts
 
 * [Menlo (Powerline-pathched)](https://gist.github.com/qrush/1595572) — for correct `agnoster` zsh-theme rendering.
+
+
+## Settings for other programs with manual installation
+
+### AppCode
+
+Use `File → Import Settings…` in AppCode.
+
+
+### iTerm 2
+
+Use `Preferences → General → Load preferences from…` in iTerm 2.
