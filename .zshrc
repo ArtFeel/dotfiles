@@ -34,13 +34,12 @@ source $ZSH/oh-my-zsh.sh
 
 
 # Customize to your needs...
-export PATH=$HOME/.rbenv/bin:/usr/local/bin:$PATH
-eval "$(rbenv init -)"
+export PATH=/usr/local/bin:$PATH
 
 
 # Aliases
 alias zshconfig="st ~/.zshrc"
 alias ohmyzsh="st ~/.oh-my-zsh"
 
-alias acdd="cd ~/Library/Caches/appCode20/DerivedData/"
+alias acdd="cd ~/Library/Caches/appCode30/DerivedData/"
 alias iossim="open ~/Library/Application\ Support/iPhone\ Simulator/"
